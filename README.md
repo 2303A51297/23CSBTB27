@@ -4,3 +4,4 @@
 <a href = "https://github.com/2303A51297/23CSBTB27/blob/main/Lab_3.ipynb">Lab_3</a></br>
 <a href = "https://github.com/2303A51297/23CSBTB27/blob/main/Lab_4.ipynb">Lab_4</a></br>
 <a href = "https://github.com/2303A51297/23CSBTB27/blob/main/Lab_5.ipynb">Lab_5</a></br>
+<a href = "https://github.com/2303A51297/23CSBTB27/blob/main/Lab_6.ipynb">Lab_6</a></br>
